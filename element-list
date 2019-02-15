@@ -1,0 +1,9 @@
+com.microsoft.rest.v3
+com.microsoft.rest.v3.annotations
+com.microsoft.rest.v3.credentials
+com.microsoft.rest.v3.http
+com.microsoft.rest.v3.http.policy
+com.microsoft.rest.v3.protocol
+com.microsoft.rest.v3.serializer
+com.microsoft.rest.v3.util
+com.microsoft.rest.v3.util.escapers
